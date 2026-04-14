@@ -1,4 +1,4 @@
-const CACHE = 'uth-v1';
+const CACHE = 'uth-v3';
 const SHELL = [
   './',
   './index.html',
